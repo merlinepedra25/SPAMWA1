@@ -170,7 +170,7 @@ def Tokped():
 			
 			} 
 			
-			sleep(25) # Jangan Di Rubah Nilai Sleepnya, Itu Udah Default.
+			sleep(30) # Jangan Di Rubah Nilai Sleepnya, Itu Udah Default.
 			
 			sending = requests.post('https://accounts.tokopedia.com/otp/c/ajax/request-wa', headers = headers, data = data)
 				
