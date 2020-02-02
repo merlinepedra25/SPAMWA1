@@ -1,6 +1,5 @@
 # Spam Wa
-
-![IMG_20200112_173346](https://user-images.githubusercontent.com/59508497/72217724-d2ed7300-3564-11ea-8d6f-bff4cb51a0ea.JPG)
+![IMG_20200202_195322](https://user-images.githubusercontent.com/59508497/73608456-b8536a80-45f5-11ea-8458-50817c3088a2.JPG)
 
 ```
 Indonesia :
