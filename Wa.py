@@ -204,7 +204,7 @@ def Spam():
 	print
 	print
 	print(C+'MENU'+W+' :')
-	print(C+'\t['+W+'1'+C+']'+W+' SPAM TOKOPEDIA')
+	print(C+'\t['+W+'1'+C+']'+W+' SPAM TOKOPEDIA'+C+' ('+M+'Nonaktif'+C+')')
 	print(C+'\t['+W+'2'+C+']'+W+' SPAM RUPA-RUPA')
 	print
 	
@@ -212,7 +212,7 @@ def Spam():
 		
 		pilih = input(C+'PILIH MENU'+W+' \xE2\x9E\xA4 '+C+'')
 		if pilih == 1:
-			Tokped()
+			sys.exit()
 		elif pilih == 2:
 			RupaRupa()
 		else:
